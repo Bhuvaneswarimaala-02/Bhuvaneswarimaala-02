@@ -1,6 +1,6 @@
 ## Hi! , I'm Bhuvaneswarimaala 
 
-🎓 I'm currently a pre-final year student specialiszing in Artificial Intelligence and Machine Learning  
+🎓 I'm currently a pre-final year student specializing in Artificial Intelligence and Machine Learning  
 💡 Passionate about AI, Data, Machine Learning & Web Dev  
 
 ## 🛠️ Tech Stack
